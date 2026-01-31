@@ -126,8 +126,8 @@ client.close()
 server.close()
 ```
 ## output
-![alt text](<../Screenshot 2026-01-31 111829.png>)
-![alt text](<../Screenshot 2026-01-31 111850.png>)
+![alt text](<Screenshot 2026-01-31 111829.png>)
+![alt text](<Screenshot 2026-01-31 111850.png>)
 ## Result:
 
 Thus the study on Client Server Chat Applications has been performed
